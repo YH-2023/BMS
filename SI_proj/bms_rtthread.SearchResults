@@ -1,0 +1,11 @@
+---- BMS_ProtectHwMonitor Matches (3 in 1 files) ----
+Bms_protect.c (c:\winshare\automotive\3-1-bms\rtthread\bms\user\bms\core):void BMS_ProtectHwMonitor(void);
+Bms_protect.c (c:\winshare\automotive\3-1-bms\rtthread\bms\user\bms\core):				BMS_ProtectHwMonitor();
+Bms_protect.c (c:\winshare\automotive\3-1-bms\rtthread\bms\user\bms\core):void BMS_ProtectHwMonitor(void)
+---- RsnsValue Matches (2 in 1 files) ----
+Drv_softi2c_bq769x0.c (c:\winshare\automotive\3-1-bms\rtthread\bms\user\drivers):static float RsnsValue= 0.005;		
+Drv_softi2c_bq769x0.c (c:\winshare\automotive\3-1-bms\rtthread\bms\user\drivers):	BQ769X0_SampleData.BatteryCurrent = ((temp * 8.44) / RsnsValue ) * 0.000001;
+---- BQ769X0_AlertyHandler Matches (3 in 1 files) ----
+Drv_softi2c_bq769x0.c (c:\winshare\automotive\3-1-bms\rtthread\bms\user\drivers):static void BQ769X0_AlertyHandler(void);
+Drv_softi2c_bq769x0.c (c:\winshare\automotive\3-1-bms\rtthread\bms\user\drivers):		BQ769X0_AlertyHandler();
+Drv_softi2c_bq769x0.c (c:\winshare\automotive\3-1-bms\rtthread\bms\user\drivers):static void BQ769X0_AlertyHandler(void)
